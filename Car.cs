@@ -1,19 +1,16 @@
-namespace AMS2A.ClassObject
-{
-    public class Car : Vehicle
+     public class Car : Vehicle
     {
 
         // behavior 
-        public void LigarMotor()
+        public void OnEngine()
         {
 
         }
 
-        public void DesligarMotor()
+        public void OffEngine()
         {
 
         }
     }
 
 
-}
